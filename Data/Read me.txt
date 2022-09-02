@@ -1,0 +1,1 @@
+El nombre de las carpetas posteriormente definirá el nombre de la cara reconocida. 
