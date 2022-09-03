@@ -4,7 +4,7 @@ import imutils
 
 # Este programa reconoce los patrones en la cámara, toma fotos y las guarda en la ruta seleccionada, se puede denominar como un generador de fotos para alimentar a la inteligencia posteriormente 
 
-modelo='nigger_face' #Nombre de la carpeta ha guardar
+modelo='face_1' #Nombre de la carpeta ha guardar
 ruta1=r'C:\Users\Pastor Jose\OneDrive\Documentos\Practicas en Python\Proyecto opencv\reconocimiento_facial\Data' #Ruta donde se va a guardar la carpeta
 ruta_completa= ruta1+ '/' + modelo 
 if not os.path.exists(ruta_completa):
